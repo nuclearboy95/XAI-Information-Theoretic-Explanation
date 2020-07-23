@@ -3,9 +3,9 @@ A tensorflow implementation of "Information-Theoretic Visual Explanation for Bla
 
 
 ## Example
-An input *parachute* image classified as a *balloon*.
+An *parachute* image was classified as a *balloon*.
 
-- The **IG map** provides a class-independent explanation: the classifier made a decision based on the highlighted object.
+- The **IG map** provides a class-independent explanation: the classifier made a decision based on the highlighted object (the parachute and the rope).
 - The **PMI map** provides a class-specific explanation for the *balloon* class: the orange fabric looks a balloon, but the rope doesn't.
 
 
